@@ -1,1 +1,1 @@
-Linear Regression, PCA, SVM, Featurisation and Recommendation systems
+PCA, SVM, Featurisation and Recommendation systems
